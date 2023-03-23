@@ -1,5 +1,5 @@
 # Team Minimap Replay
-This is a component developed to replay the Team Minimap game given a selected data file.
+This is a component developed to replay the Team Minimap game given a selected data file. The folder contains the data files should be indicated in the `demo-folder` property of the file  `mission/config.json`. 
 
 ![File Selection](replay-instruction.png)
 
